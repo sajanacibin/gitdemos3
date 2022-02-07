@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-06T22:10:15 IST" name="Surefire suite" finished-at="2022-01-06T22:10:15 IST" duration-ms="276">
+    <groups>
+    </groups>
+    <test started-at="2022-01-06T22:10:15 IST" name="Surefire test" finished-at="2022-01-06T22:10:15 IST" duration-ms="276">
+      <class name="QA.MAVEN.apiumTest">
+        <test-method signature="apiumtest1()[pri:0, instance:QA.MAVEN.apiumTest@bcec361]" started-at="2022-01-06T22:10:15 IST" name="apiumtest1" finished-at="2022-01-06T22:10:15 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiumtest1 -->
+        <test-method signature="apiumtest2()[pri:0, instance:QA.MAVEN.apiumTest@bcec361]" started-at="2022-01-06T22:10:15 IST" name="apiumtest2" finished-at="2022-01-06T22:10:15 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiumtest2 -->
+      </class> <!-- QA.MAVEN.apiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
